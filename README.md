@@ -51,6 +51,10 @@ Integrate the updated module into Kyverno, ensuring compatibility with existing 
 Perform rigorous testing and quality assurance to validate the functionality, performance, and security of the enhanced Sigstore Cosign module.         
 ### Documentation and Reporting
 Document the changes made, provide clear instructions, and contribute to the project's documentation for seamless adoption by the Kyverno community.
+
+
+![kyverno](https://github.com/yashvardhanmishra/Enhancing-Kyverno-Sigstore-Cosign-Proposal/assets/103776258/25fdcc78-e063-4989-b346-7e9bfa4a9bdc)
+
 ## Skills and Expertise:
 To demonstrate proficiency in the required skills for this mentorship opportunity, I would like to highlight my experience and expertise in the following areas:
 
